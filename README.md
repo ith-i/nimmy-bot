@@ -1,0 +1,2 @@
+# nimmy-bot
+Discord Bot 
